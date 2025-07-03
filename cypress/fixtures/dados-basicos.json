@@ -1,0 +1,58 @@
+{
+  "cnpj": {
+    "representado": "",
+    "beneficiario": "",
+    "naoRepresentado": "",
+    "invalido": "",
+    "inexistente": "",
+    "simples": ""
+  },
+  "requisicao": {
+    "emElaboracao": "",
+    "cancelado": "",
+    "emAnalise": "",
+    "deferido": "",
+    "indeferido": "",
+    "emExigencia": "",
+    "emAlteracao": "",
+    "respostaDeExigencia": "",
+    "emRetificacao": "",
+    "comDiagnostico": "",
+    "diagnosticoComImpedimento": {
+      "semAssociacao": "",
+      "semEntidades": "",
+      "alerta": ""
+    },
+    "muitasEntidades": "",
+    "muitosDiagnosticos": "",
+    "comRC": "",
+    "semRC": "",
+    "concluirRC": "",
+    "cancelarRC": "",
+    "semRS": "",
+    "simplesNacional": "",
+    "invalido": "",
+    "inexistente": "",
+    "naoRepresentado": "",
+    "operacoes": ""
+  },
+  "requisicaoB": {
+    "cnpjBeneficiario": "",
+    "modalidade": {
+      "codigo": "",
+      "label": ""
+    },
+    "regime": {
+      "codigo": "",
+      "label": ""
+    },
+    "tipo": {
+      "codigo": "",
+      "label": ""
+    },
+    "situacao": {
+      "codigo": "",
+      "label": ""
+    }
+  }
+}

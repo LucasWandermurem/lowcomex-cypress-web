@@ -1,0 +1,13 @@
+{
+  "itemMateriaPrima": {
+    "descricaoComplementar": "TESTE_AUTOMATIZADO_CYPRESS",
+    "ncm": {
+      "codigo": "",
+      "label": "",
+      "unidade": ""
+    },
+    "numeroRequisicao": "",
+    "numeroItemMateriaPrima": 1,
+    "versao": 0
+  }
+}

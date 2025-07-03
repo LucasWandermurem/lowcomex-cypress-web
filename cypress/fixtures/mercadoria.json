@@ -1,0 +1,13 @@
+{
+  "itemMercadoria": {
+    "descricaoComplementar": "TESTE_AUTOMATIZADO_CYPRESS",
+    "codItem": "",
+    "numeroRequisicao": "",
+    "numeroItemMercadoria": 1,
+    "quantidadeQuilogramaLiquido": 1,
+    "quantidadeUnidadeComercializacao": 1,
+    "quantidadeUnidadeEstatistica": 1.0000000,
+    "unidadeComercializacao": "KG",
+    "versao": 0
+  }
+}

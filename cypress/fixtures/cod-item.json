@@ -1,0 +1,24 @@
+{
+  "codItem": {
+  "inexistente": "",
+  "vigente": "",
+  "semUME": "",
+  "semDescricao": "",
+  "tamanhoIncorreto": ""
+  },
+  "listaCodItem": {
+  "codigo": "",
+  "label": "",
+  "unidade": ""
+  },
+  "codItemValida": {
+  "codItemInicial": "",
+  "codItemFinal": "",
+  "codItemA": "",
+  "codItemB": "",
+  "codItemC": "",
+  "codItemD": "",
+  "codItemE": "",
+  "codItemF": ""
+  }
+  }
