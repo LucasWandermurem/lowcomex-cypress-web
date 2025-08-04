@@ -48,4 +48,4 @@ Automatizar cenários críticos da aplicação **[Lowcomex]**, garantindo a vali
 
 ## 📄 Licença
 
-Este projeto está sob a licença MIT - veja o arquivo LICENSE.md para detalhes.
+Este projeto está sob a licença MIT - veja o arquivo ([LICENSE.md](https://github.com/LucasWandermurem/lowcomex-cypress-web/blob/main/LICENSE.md)) para detalhes.
